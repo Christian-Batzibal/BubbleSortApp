@@ -1,0 +1,16 @@
+C:\PruebasProyectos\BubbleSortinterfazgrafica\bin\Debug\net8.0-windows\BubbleSortinterfazgrafica.exe
+C:\PruebasProyectos\BubbleSortinterfazgrafica\bin\Debug\net8.0-windows\BubbleSortinterfazgrafica.deps.json
+C:\PruebasProyectos\BubbleSortinterfazgrafica\bin\Debug\net8.0-windows\BubbleSortinterfazgrafica.runtimeconfig.json
+C:\PruebasProyectos\BubbleSortinterfazgrafica\bin\Debug\net8.0-windows\BubbleSortinterfazgrafica.dll
+C:\PruebasProyectos\BubbleSortinterfazgrafica\bin\Debug\net8.0-windows\BubbleSortinterfazgrafica.pdb
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortApp.Form1.resources
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.csproj.GenerateResource.cache
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.AssemblyInfoInputs.cache
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.AssemblyInfo.cs
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.csproj.CoreCompileInputs.cache
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.dll
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\refint\BubbleSortinterfazgrafica.dll
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.pdb
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\BubbleSortinterfazgrafica.genruntimeconfig.cache
+C:\PruebasProyectos\BubbleSortinterfazgrafica\obj\Debug\net8.0-windows\ref\BubbleSortinterfazgrafica.dll
